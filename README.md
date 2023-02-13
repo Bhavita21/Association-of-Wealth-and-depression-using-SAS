@@ -1,6 +1,6 @@
 # Association-of-Wealth-and-depression-using-SAS
 
-Background: Many publications use nationally representative data sources to answer public health questions. For this project, you are to assess the association between wealth (exposure) and depression (outcome) in adults. 
+Background: Many publications use nationally representative data sources to answer public health questions. For this project, you are to assess the association between wealth (exposure) and depression (outcome) in adults 2015-16. 
 
 WEALTH – The definition of wealth is broad and multifaceted. Focusing on data available in NHANES, wealth could be assessed using savings and/or home ownership. Note that this is not the only, or even the best, possible definition of wealth.
 
